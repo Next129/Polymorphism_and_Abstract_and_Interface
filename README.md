@@ -1,2 +1,2 @@
 # Polymorphism_and_Abstract_and_Interface
-aa
+A rigorous exploration of polymorphism, abstract classes, and interfaces is conducted using tax payment, employee, full-time, part-time, and taxpayer properties as examples. Through structured analysis and practical illustration, participants will gain a precise understanding of method overriding, abstraction, and contract-based design in object-oriented programming.
